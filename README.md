@@ -1,4 +1,4 @@
-# anki-card-scraping-tools
+# Anki Card Scraping Tools
 A collection of Python scripts used for generating Anki cards through web scraping and file scraping.
 
 **I love language learning and using Anki.**
