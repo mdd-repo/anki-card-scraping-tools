@@ -1,5 +1,6 @@
 # Anki Card Scraping Tools
 A collection of Python scripts used for generating Anki cards through web scraping and file scraping.
+`ctrl + shift + s` downloads target files after clicking the link to them; all important files linked to under projects below.
 
 **I love language learning and using Anki.**
 Now, ideally, I would just type entire dictionaries[^1] into the card creator by hand. Unfortunately life is short and I do not have time for that for everything. So I automate the process in Python whenever I run into a resource I need to scrape for vocabulary.
