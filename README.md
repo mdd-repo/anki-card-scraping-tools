@@ -9,7 +9,7 @@ Now, ideally, I would just type entire dictionaries[^1] into the card creator by
 
 ### Mvskoke Opunvkv Web Dictionary (Mvskoke Anki Cards)
 The wonderful teachers at [Mvskoke Opunvkv](https://www.mvskokeopunvkv.com/) have included an online edition of the 2000 "A dictionary of Creek / Muskogee" reference book compiled by Jack B. Martin and Margaret McKane Mauldin, viewable [here](https://www.webonary.org/muscogee/overview/introduction/)[^2].<br>
-I have created a Python code that targets various HTML elements and extracts their contents, then formats them into two columns. <br>
+I have created a Python code that targets various HTML elements and extracts their contents, then formats them. <br>
 Included is the [Python code](https://github.com/mdd-repo/anki-card-scraping-tools/blob/main/Mvskoke%20Opunvkv%20Web%20Dictionary/mvskoke_dictionary_scraper.py), the [spreadsheet](https://github.com/mdd-repo/anki-card-scraping-tools/blob/main/Mvskoke%20Opunvkv%20Web%20Dictionary/jbm_mmm_mvskoke_english_dictionary_entries.xlsx), and the [Anki deck](https://github.com/mdd-repo/anki-card-scraping-tools/blob/main/Mvskoke%20Opunvkv%20Web%20Dictionary/A%20Dictionary%20of%20Mvskoke%20Card%20Deck.apkg) made from the current release.<br>
 `This card deck is from the site's April 24th, 2024 update.`
 
