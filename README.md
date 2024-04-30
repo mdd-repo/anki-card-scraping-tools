@@ -11,7 +11,7 @@ Now, ideally, I would just type entire dictionaries[^1] into the card creator by
 Note: This is still currently scraping. Description has been written in advance. It is over 8900 cards so will take a little while.<br>
 `This card deck was last scraped on April 30th, 2024.`<br>
 I cannot fully explain what possessed me to do this, beyond "I will use it."<br> 
-Will anyone else? Maybe. But I definitely will.<br>
+Will anyone else? Maybe. Maybe not. I still wanted to do it.<br>
 
 This is a web scraped Anki deck pack that includes the [entire Wiktionary database for words and phrases in Farsi/Persian](https://en.wiktionary.org/wiki/Category:Persian_lemmas). They are sorted by part of speech, just as the "Persian lemmas" page divides them, and from there the script picks out the word, pronunciation, definitions, and etymology; redundant entries are passed over in favor of those with definitions. Due to the sheer quantity, expect minor formatting errors. Due to the nature of Wikipedia/Wiktionary, be critical.<br>
 
