@@ -16,6 +16,7 @@ This is a web scraped Anki deck pack that includes the [entire Wiktionary databa
 
 Included: the [Python code](https://github.com/mdd-repo/anki-card-scraping-tools/blob/main/Wiktionary%20Persian%20lemmas/wiktionary_persian_definition_scraper.py), the spreadsheets, and the [Anki deck pack](https://github.com/mdd-repo/anki-card-scraping-tools/blob/main/Wiktionary%20Persian%20lemmas/Wiktionary%20Persian%20lemmas.apkg).<br>
 Categories: adjectives, adverbs, conjunctions, determiners, interjections, morphemes, multi-word terms, nouns, numerals, particles, phrases, prepositions, pronouns, verbs.<br>
+
 I have taken the liberty of removing any racial and ethnic slurs that I could find; this process may not have been perfect. Words that indicate sexual behavior and contact remain in the pack from a standpoint of linguistic knowledge. Please be aware of this when using the cards.
 
 ------
