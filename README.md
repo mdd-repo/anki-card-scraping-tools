@@ -19,6 +19,8 @@ Categories: adjectives, adverbs, conjunctions, determiners, interjections, morph
 
 I have taken the liberty of removing any racial and ethnic slurs that I could find; this process may not have been perfect. Words that indicate sexual behavior and contact remain in the pack from a standpoint of linguistic knowledge. Please be aware of this when using the cards.
 
+Available on [AnkiNet #1446159529](https://ankiweb.net/shared/info/1446159529)
+
 ------
 
 ### Muskogee / Mvskoke Language Web Dictionary (Mvskoke Anki Cards)
