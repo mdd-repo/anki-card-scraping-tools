@@ -29,5 +29,5 @@ Included: the [Python code](https://github.com/mdd-repo/anki-card-scraping-tools
  
 
  
-[^1]:Recommendation for the whole-dictionary method: After importing into Anki, click on the deck, then Browse, then shift-click the first and last cards to select everything. Right click, and Toggle Suspend. Go section by section, or by words as you learn them individually, and un-Toggle Suspend, so as to not be overwhelmed.
+[^1]:Recommendation for the whole-dictionary method: After importing into Anki, click on the deck, then Browse, then shift-click the first and last cards to select everything. Right click, and Toggle Suspend. Go section by section, or by words as you learn them individually, and un-Toggle Suspend, so as to not be overwhelmed. You can also use them to construct your own frequency lists, particularly for languages that do not have readily available lists to study.
 [^2]: This web edition is still in its drafting stages. According to the roadmap, there will be several more rounds of peer and scholarly review before its final version is made public.
