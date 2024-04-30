@@ -25,7 +25,8 @@ The wonderful teachers at [Mvskoke Opunvkv](https://www.mvskokeopunvkv.com/) hav
 
 Included: the [Python code](https://github.com/mdd-repo/anki-card-scraping-tools/blob/main/Mvskoke%20Opunvkv%20Web%20Dictionary/mvskoke_dictionary_scraper.py), the [spreadsheet](https://github.com/mdd-repo/anki-card-scraping-tools/blob/main/Mvskoke%20Opunvkv%20Web%20Dictionary/jbm_mmm_mvskoke_english_dictionary_entries.xlsx), and the [Anki deck](https://github.com/mdd-repo/anki-card-scraping-tools/blob/main/Mvskoke%20Opunvkv%20Web%20Dictionary/A%20Dictionary%20of%20Mvskoke%20Card%20Deck.apkg) made from the current release.<br>
 
-
-<br>
+ 
+------
+ 
 [^1]:Recommendation for the whole-dictionary method: After importing into Anki, click on the deck, then Browse, then shift-click the first and last cards to select everything. Right click, and Toggle Suspend. Go section by section, or by words as you learn them individually, and un-Toggle Suspend, so as to not be overwhelmed.
-[^2]: This web edition is still in its drafting stages. According to the roadmap, there will be several more rounds of community review before its final version is made public.
+[^2]: This web edition is still in its drafting stages. According to the roadmap, there will be several more rounds of peer and scholarly review before its final version is made public.
