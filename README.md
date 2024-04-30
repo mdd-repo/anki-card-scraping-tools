@@ -15,8 +15,9 @@ Will anyone else? Maybe. Maybe not. I still wanted to do it.<br>
 
 This is a web scraped Anki deck pack that includes the [entire Wiktionary database for words and phrases in Farsi/Persian](https://en.wiktionary.org/wiki/Category:Persian_lemmas). They are sorted by part of speech, just as the "Persian lemmas" page divides them, and from there the script picks out the word, pronunciation, definitions, and etymology; redundant entries are passed over in favor of those with definitions. Due to the sheer quantity, expect minor formatting errors. Due to the nature of Wikipedia/Wiktionary, be critical.<br>
 
-Included: the [Python code](), the [spreadsheets](), and the [Anki deck pack]().<br>
-Categories: adjectives, adverbs, conjunctions, determiners, interjections, multi-word terms, nouns, numerals, particles, phrases, prepositions, pronouns, verbs.
+Included: the [Python code](https://github.com/mdd-repo/anki-card-scraping-tools/blob/main/Wiktionary%20Persian%20lemmas/wiktionary_persian_definition_scraper.py), the spreadsheets, and the [Anki deck pack](https://github.com/mdd-repo/anki-card-scraping-tools/blob/main/Wiktionary%20Persian%20lemmas/Wiktionary%20Persian%20lemmas.apkg).<br>
+Categories: adjectives, adverbs, conjunctions, determiners, interjections, morphemes, multi-word terms, nouns, numerals, particles, phrases, prepositions, pronouns, verbs.<br>
+I have taken the liberty of removing any racial and ethnic slurs that I could find; this process may not have been perfect due to the nature of the database. Please be aware of this when using the cards.
 
 ------
 
