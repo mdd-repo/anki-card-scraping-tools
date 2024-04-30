@@ -25,6 +25,7 @@ Categories: adjectives, adverbs, conjunctions, determiners, interjections, multi
 The wonderful teachers at [Mvskoke Opunvkv](https://www.mvskokeopunvkv.com/) have included an online edition of the 2000 "A Dictionary of Creek / Muskogee" reference book compiled by Jack B. Martin and Margaret McKane Mauldin, viewable [here](https://www.webonary.org/muscogee/overview/introduction/).[^2]<br>
 
 Included: the [Python code](https://github.com/mdd-repo/anki-card-scraping-tools/blob/main/Mvskoke%20Opunvkv%20Web%20Dictionary/mvskoke_dictionary_scraper.py), the [spreadsheet](https://github.com/mdd-repo/anki-card-scraping-tools/blob/main/Mvskoke%20Opunvkv%20Web%20Dictionary/jbm_mmm_mvskoke_english_dictionary_entries.xlsx), and the [Anki deck](https://github.com/mdd-repo/anki-card-scraping-tools/blob/main/Mvskoke%20Opunvkv%20Web%20Dictionary/A%20Dictionary%20of%20Mvskoke%20Card%20Deck.apkg) made from the current release.<br>
+
 Available on [AnkiNet #2044931447](https://ankiweb.net/shared/info/2044931447).<br>
 
  
