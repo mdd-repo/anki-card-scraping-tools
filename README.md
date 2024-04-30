@@ -7,7 +7,7 @@ Now, ideally, I would just type entire dictionaries[^1] into the card creator by
 
 ------
 
-### 4/30/24 - Literally All Of Wiktionary: Persian lemmas (Persian / Farsi Anki Cards)
+### Wiktionary: Persian lemmas (Persian / Farsi Anki Cards)
 Note: This is still currently scraping. Description has been written in advance. It is over 8900 cards so will take a little while.<br>
 `This card deck was last scraped on April 30th, 2024.`<br>
 I cannot fully explain what possessed me to do this, beyond "I will use it."<br> 
@@ -20,11 +20,12 @@ Categories: adjectives, adverbs, conjunctions, determiners, interjections, multi
 
 ------
 
-### 4/28/24 - Muskogee / Mvskoke Language Web Dictionary (Mvskoke Anki Cards)
+### Muskogee / Mvskoke Language Web Dictionary (Mvskoke Anki Cards)
 `This card deck was last scraped from the April 24th, 2024 update.`<br>
 The wonderful teachers at [Mvskoke Opunvkv](https://www.mvskokeopunvkv.com/) have included an online edition of the 2000 "A Dictionary of Creek / Muskogee" reference book compiled by Jack B. Martin and Margaret McKane Mauldin, viewable [here](https://www.webonary.org/muscogee/overview/introduction/).[^2]<br>
 
 Included: the [Python code](https://github.com/mdd-repo/anki-card-scraping-tools/blob/main/Mvskoke%20Opunvkv%20Web%20Dictionary/mvskoke_dictionary_scraper.py), the [spreadsheet](https://github.com/mdd-repo/anki-card-scraping-tools/blob/main/Mvskoke%20Opunvkv%20Web%20Dictionary/jbm_mmm_mvskoke_english_dictionary_entries.xlsx), and the [Anki deck](https://github.com/mdd-repo/anki-card-scraping-tools/blob/main/Mvskoke%20Opunvkv%20Web%20Dictionary/A%20Dictionary%20of%20Mvskoke%20Card%20Deck.apkg) made from the current release.<br>
+Available on [AnkiNet #2044931447](https://ankiweb.net/shared/info/2044931447).<br>
 
  
 
